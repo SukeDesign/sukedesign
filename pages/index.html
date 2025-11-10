@@ -48,29 +48,6 @@
         </div> 
     </article>
 
-    <!-- facilities | list NEW: PARALLAX WINDOW -->
-    <section data-handler="facilities" data-method="icons" class="parallax-window" data-parallax="scroll" data-image-src="{{ imagepath }}/company-16_1500x630.jpg" data-natural-width="1500" data-natural-height="630">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <h5 class="title">Facilities</h5>
-                    <h2>Services in our company</h2>
-                    <ul class="list-inline">
-                        {% for service in services %}
-                        {% if service.title %}
-                            <li class="list-inline-item">
-                                <i class="icon-service-facilities-{{ service.icon }}"></i>
-                                <br>
-                                <span>{{ service.title }}</span>
-                            </li>
-                        {% endif %}
-                        {% endfor %}
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <!-- testimonials | will slide if more then 1 -->
     <section class="highlight-block" data-handler="free-block" data-method="testimonials">
         <div class="container">
@@ -91,33 +68,6 @@
                         </div>
                         {% endfor %}                            
                     </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- services | list with icons and title OLD PARALLAX -->
-    <section class="media parallax bg-black" data-handler="services" data-method="list" style="background-image: url('{{ imagepath }}/company-39.jpg');">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <h5 class="title">Services</h5>
-                    <h2>{{ companyname }}</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-8 mx-auto">
-                    <ul class="list-icons">
-                        {% for service in services %}
-                        {% if service.title %}
-                        <li>
-                            <span>
-                                <i class="icon-service-facilities-{{ service.icon }}"></i>{{ service.title }}
-                            </span>
-                        </li>
-                        {% endif %}                        
-                        {% endfor %}                        
-                    </ul>
                 </div>
             </div>
         </div>
