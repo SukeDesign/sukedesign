@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+{% block pagetitle %} Work {% endblock %}
+{% block swipper %} 
+    <!-- swipper with images and captions -->
+    <div data-handler="free-block" data-method="swipper">
+        <div id="extras-swiper-carousel-large" class="carousel carousel-fade slide" data-ride="carousel" data-interval="5000">
+            <ol class="carousel-indicators">
+            {% for teaser in teasers %}
+                <li data-target="#teasers-swiper-carousel-large" data-slide-to="{{ loop.index-1 }}"{% if loop.index == 1 %} class="active"{% endif %}>0{{ loop.index }}</li>
+            {% endfor %}
+            </ol>
+            <div class="carousel-inner">
+            {% for teaser in teasers %}
+                <div class="carousel-item mb-0{% if loop.index == 1 %} active{% endif %}">
+                    <figure>
+                        {%if teaser.hero %}
+                        <img src="{{ imagepath }}/1500x630.jpg" alt="">
+                        {% else %}
+                        <img src="{{ imagepath }}/1500x630.jpg" alt="">
+                        {% endif %}
+                        <figcaption>
+                            <h5>
+                                {{ companyname }} teasers                                      
+                            </h5>
+                            <h2>{{ teaser.title }}</h2>
+                        </figcaption>
+                    </figure>
+                </div> 
+            {% endfor %}
+            </div> 
+        </div>
+    </div>   
+{% endblock %}
+{% block content %}
+ Work
+{% endblock %}
