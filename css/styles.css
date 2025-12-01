@@ -30,11 +30,6 @@ header .navbar .wrapper {
     margin: 0 auto;
     padding: 0 1rem;
 }
-.navbar-nav .nav-link.active, .navbar-nav .nav-link.show,
-header .navbar a.active {
-    
-}
-
 header .copyright {
     position: fixed;
     left:0;
@@ -136,6 +131,9 @@ main .hero::before {
 }
 main .hero img {
     display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     animation-name:zoomout;
     animation-duration: 3s;
     animation-fill-mode: forwards;
@@ -209,7 +207,6 @@ main .contact div {
         left: 0;
         z-index: 0;
     }
-
     header .navbar  .wrapper {
         display: block;
         align-items: left;
@@ -221,11 +218,11 @@ main .contact div {
         width: auto;
         z-index: 1;
     }
-
     main .hero {
         top: 0;
         height: 100vh;
     }
+
     main .contact strong {
         float:left;
         width:100px;
@@ -235,6 +232,10 @@ main .contact div {
 @media (width >= 1200px) {  
     .h3, h3 {
         font-size: 1.5rem;
+    }
+    main .hero img {
+        max-width: 100%;
+        height: 100%;
     }
 }
 
