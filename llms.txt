@@ -1,120 +1,27 @@
 ---
-domain: sukedesign.de
-title: sukeDesign – Webdesign & Frontend Development aus Essen
-description: Professionelle Webdesign-Dienstleistungen mit Fokus auf UI/UX-Design, WordPress-Entwicklung, responsive Websites sowie Performance- und SEO-Optimierung. Ansässig in Essen, NRW.
-language: de
-location: Schornstr. 17, 45128 Essen, Germany
-contact:
-  email: sukedesign@outlook.de
-  phone: +49 176 234 88044
-  website: https://sukedesign.de
-owner: Susana Pinho
+# sukeDesign – Webdesign & Frontend Development aus Essen
+> Professionelle Webdesign-Dienstleistungen mit Fokus auf UI/UX-Design, WordPress-Entwicklung, responsive Websites und SEO-Optimierung. Ansässig in Essen, NRW. Spezialisiert auf lokale Unternehmen und nachhaltige Weblösungen.
+
+sukeDesign ist eine Webdesign-Agentur aus Essen, die sich auf **UI/UX-Design**, **WordPress-Entwicklung**, **responsive Websites** und **SEO-Optimierung** spezialisiert hat. Die Zielgruppe sind lokale Unternehmen, Startups und Selbstständige in Essen und Umgebung, die Wert auf benutzerfreundliche, performante und suchmaschinenoptimierte Websites legen. Erwartet werden detaillierte Beschreibungen der Dienstleistungen, lokale Relevanz und technische Optimierungshinweise.
 ---
 
 ---
-## Dienstleistungen
-1. **UI/UX-Design**
-   - Benutzerfreundliche und ästhetische Oberflächen für Websites und Anwendungen.
-   - Fokus auf Nutzererlebnis (UX) und visuelle Attraktivität (UI).
 
-2. **WordPress-Entwicklung**
-   - Erstellung von responsiven, suchmaschinenoptimierten WordPress-Websites.
-   - Individuelle Themes und Plugins für maximale Performance.
-
-3. **Responsive Webdesign**
-   - Websites, die auf allen Geräten (Desktop, Tablet, Mobile) optimal dargestellt werden.
-   - Einhaltung der Core Web Vitals (LCP, FID, CLS).
-
-4. **Performance-Optimierung**
-   - Ladezeiten verkürzen durch Bildkomprimierung, Caching und CDN-Nutzung.
-   - Optimierung der Serverantwortzeiten und Datenbankabfragen.
-
-5. **SEO-Optimierung**
-   - Technische SEO (Meta-Tags, strukturierte Daten, XML-Sitemaps).
-   - Content-Optimierung für bessere Sichtbarkeit in Suchmaschinen.
-   - Lokale SEO für Unternehmen in Essen und Umgebung.
-
-6. **Wartung und Updates**
-   - Regelmäßige Updates für WordPress, Plugins und Themes.
-   - Sicherheitsüberprüfungen und Backups.
----
+## Services
+- https://sukedesign.de/#services: Übersicht der Kernleistungen (UI/UX-Design, WordPress-Entwicklung, Performance-Optimierung, SEO).
+- https://sukedesign.de/#services: WordPress-Entwicklungsdienstleistungen inkl. Hosting-Empfehlungen.
+- https://sukedesign.de/#services: SEO-Optimierung für WordPress-Websites mit Fokus auf lokale Suchanfragen.
+- https://sukedesign.de/#services: Benutzerfreundliche Oberflächen für Websites und Anwendungen.
+- https://sukedesign.de/#services: Erstellung mobilerfreundlicher Websites mit Fokus auf Core Web Vitals.
 
 ---
-## Lokale Relevanz
-- **Region:** Essen, Nordrhein-Westfalen (NRW)
-- **Zielgruppe:** Lokale Unternehmen, Startups und Selbstständige in Essen und Umgebung.
-- **Keywords:**
-  - "Webdesign Essen"
-  - "SEO-Agentur Essen"
-  - "WordPress-Entwicklung NRW"
-  - "Responsive Webdesign Duisburg"
-  - "Performance-Optimierung für Websites"
----
+## Work & Referenzen
+- https://sukedesign.de/#work: Referenzprojekte und Beispiele für umgesetzte Webdesign-Projekte.
+- https://sukedesign.de/#work: Übersicht der Arbeitsweise und Philosophie hinter den Projekten.
 
 ---
-## Häufige Fragen (FAQ)
-1. **Wie lange dauert die Entwicklung einer Website?**
-   - Die Dauer hängt vom Umfang ab. Eine einfache Website benötigt ca. 2–4 Wochen, komplexe Projekte bis zu 3 Monate.
-
-2. **Bieten Sie auch Wartung an?**
-   - Ja, wir bieten regelmäßige Wartungspakete an, inklusive Updates, Backups und Sicherheitsüberprüfungen.
-
-3. **Was kostet eine SEO-Optimierung?**
-   - Die Kosten hängen von den Anforderungen ab. Eine individuelle Offerte erstellen wir nach Analyse deiner Website.
-
-4. **Arbeiten Sie auch mit Unternehmen aus Duisburg oder anderen Städten?**
-   - Ja, wir arbeiten mit Unternehmen in ganz NRW zusammen, inklusive Duisburg, Dortmund und Düsseldorf.
-
-5. **Wie optimieren Sie meine Website für bessere Ladezeiten?**
-   - Wir setzen auf Bildkomprimierung, Caching, CDN-Nutzung und Code-Optimierung, um die Ladezeiten zu verkürzen.
-
-6. **Können Sie bestehende Websites optimieren?**
-   - Ja, wir bieten Performance- und SEO-Optimierung für bestehende Websites an.
----
-
----
-## Technische Hinweise
-- **Technologien:** WordPress, HTML5, CSS3, JavaScript, PHP
-- **Design-Frameworks:** Bootstrap, Tailwind CSS (je nach Projekt)
-- **Hosting:** Empfehlungen für schnelle und sichere Hosting-Lösungen (z. B. RAIDBOXES, All-inkl).
-- **SSL:** Alle Websites werden mit SSL-Zertifikaten ausgeliefert (HTTPS).
-- **Strukturierte Daten:** Einsatz von Schema.org für Dienstleistungen, FAQs und lokale Optimierung.
----
-
----
-## Autoritäts-Signale
-- **Domain-Alter:** Seit [Jahr einfügen, falls bekannt] aktiv.
-- **Backlinks:** Profile auf Branchenportalen wie Clutch, DesignRush und lokalen Verzeichnissen.
-- **Bewertungen:** Kundenbewertungen auf Google My Business und Trustpilot (sofern vorhanden).
-- **Case Studies:** Referenzprojekte auf Anfrage verfügbar.
----
-
----
-## GEO-Optimierung (Generative Engine Optimization)
-- **Inhalte für KI-Systeme:**
-  - Klare, präzise Antworten auf Nutzerfragen (z. B. "Wie optimiere ich meine Website für SEO?").
-  - Semantische HTML-Struktur (h1, h2, h3, p) für bessere Lesbarkeit durch KI.
-  - Konkrete Beispiele und Daten einbauen (z. B. "Unsere Websites laden in unter 2 Sekunden").
-- **Multichannel-Präsenz:**
-  - YouTube/TikTok: Kurze Tutorials zu Webdesign-Themen.
-  - LinkedIn: Fachartikel und Case Studies teilen.
----
-
----
-## Nächste Schritte für bessere Sichtbarkeit
-1. **Technische Optimierung:**
-   - Core Web Vitals prüfen (Google PageSpeed Insights).
-   - Strukturierte Daten einbinden (Schema.org).
-2. **Content-Ergänzung:**
-   - FAQ-Sektion erweitern.
-   - Blog mit Artikeln zu Webdesign-Trends und SEO erstellen.
-3. **Lokale Optimierung:**
-   - Google My Business-Profil erstellen und optimieren.
-   - Lokale Keywords in Meta-Tags und Content einbauen.
-4. **Autorität aufbauen:**
-   - Backlinks auf Branchenportalen erstellen.
-   - Kundenbewertungen sammeln (Google, Trustpilot).
----
-
----
-**Hinweis:** Diese Datei dient als Wissensbasis für KI-Systeme und sollte regelmäßig aktualisiert werden. Für eine vollständige GEO- und SEO-Optimierung empfiehlt sich ein professionelles Audit.
+## Contact & Legal
+- https://sukedesign.de/#contact: Kontaktdaten (Adresse, Telefon, E-Mail) und Standort in Essen.
+- https://sukedesign.de/legals.html: Impressum mit Adresse (Schornstr. 17, 45128 Essen) und Betreiberin (Susana Pinho).
+- https://sukedesign.de/#contact: Häufige Fragen zu Dienstleistungen, Kosten und regionaler Abdeckung (z. B. "Arbeiten Sie auch mit Unternehmen aus Duisburg?").
+- https://sukedesign.de/legals.html: Datenschutzerklärung mit Informationen zu Cookies und Tracking.
