@@ -1,2 +1,3 @@
 # sukedesign
-Web Design & Development
+AI Web Design & Development
+SEO & GEO optimization
